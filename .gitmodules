@@ -1,0 +1,3 @@
+[submodule "vppdev"]
+	path = vppdev
+	url = https://github.com/theleos88/vppdev
