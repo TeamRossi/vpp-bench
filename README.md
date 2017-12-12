@@ -2,9 +2,19 @@ vpp-bench
 ===
 
 This repo contains:
-- the plugins developed (to be integrated in VPP)
+- the code developed (vppdev)
 - the scripts we used to perform the experiments described in the technical report
   available at https://newnet.telecom-paristech.fr/index.php/vpp-bench/
+
+## tl:dr;
+
+``` 
+git clone https://github.com/TeamRossi/vpp-bench  ## For the scripts
+cd vpp-bench
+git submodule init  ## For the vpp code
+git submodule update
+```
+
 
 
 ## Before starting
